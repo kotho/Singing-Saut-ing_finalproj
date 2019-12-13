@@ -1,0 +1,382 @@
+DURATION CONVERSION
+
+Love Is Here To Stay (US): 262000.0 milliseconds to 4.37 minutes
+I’m Old Fashioned (US): 272000.0 milliseconds to 4.53 minutes
+Somewhere Sometime (US): 199102.0 milliseconds to 3.32 minutes
+Old Country (US): 352250.0 milliseconds to 5.87 minutes
+Mercy, Mercy, Mercy (US): 151904.0 milliseconds to 2.53 minutes
+Drive-Through Dinner (US): 204889.0 milliseconds to 3.41 minutes
+As We Believed (US): 247283.0 milliseconds to 4.12 minutes
+As Life Turns Around (US): 188409.0 milliseconds to 3.14 minutes
+I Didn't Know What Time It Was (US): 287381.0 milliseconds to 4.79 minutes
+I Could Write A Book (US): 189730.0 milliseconds to 3.16 minutes
+Sunny (US): 234068.0 milliseconds to 3.9 minutes
+The Shape of Blue (US): 197665.0 milliseconds to 3.29 minutes
+The Way You Look Tonight (US): 215719.0 milliseconds to 3.6 minutes
+Star Eyes (US): 318000.0 milliseconds to 5.3 minutes
+Let's Fall In Love (US): 206593.0 milliseconds to 3.44 minutes
+Melody of Summer (US): 156992.0 milliseconds to 2.62 minutes
+All Or Nothing At All (US): 411750.0 milliseconds to 6.86 minutes
+Black Orpheus (US): 213893.0 milliseconds to 3.56 minutes
+Cheek To Cheek (US): 163702.0 milliseconds to 2.73 minutes
+Softly, as in a Morning Sunrise (US): 201843.0 milliseconds to 3.36 minutes
+Stella By Starlight (CA): 245221.0 milliseconds to 4.09 minutes
+Cedar Waltzin' ~ Don't You Worry 'bout a Thing (CA): 503133.0 milliseconds to 8.39 minutes
+L.A. 58 (CA): 246633.0 milliseconds to 4.11 minutes
+All Things Considered (CA): 652440.0 milliseconds to 10.87 minutes
+Sunday Waltz (CA): 323448.0 milliseconds to 5.39 minutes
+Theme for Ernie (CA): 304293.0 milliseconds to 5.07 minutes
+Somaoh (CA): 228746.0 milliseconds to 3.81 minutes
+The Good Doctor (CA): 393440.0 milliseconds to 6.56 minutes
+Draw Me Nearer (CA): 282386.0 milliseconds to 4.71 minutes
+Darn That Dream (CA): 305565.0 milliseconds to 5.09 minutes
+Jackie In The Rain (CA): 304331.0 milliseconds to 5.07 minutes
+Min Soldat (My Soldier) (CA): 506320.0 milliseconds to 8.44 minutes
+Stella By Starlight (CA): 347773.0 milliseconds to 5.8 minutes
+Pretty Women (CA): 381050.0 milliseconds to 6.35 minutes
+Very Early (CA): 485505.0 milliseconds to 8.09 minutes
+Isn't This My Sound Around Me (CA): 320540.0 milliseconds to 5.34 minutes
+Blues for the Real Human Beings (CA): 259386.0 milliseconds to 4.32 minutes
+Ancient and Distant (CA): 433266.0 milliseconds to 7.22 minutes
+Habbit Rabbit (CA): 314133.0 milliseconds to 5.24 minutes
+There's A Small Hotel (CA): 401493.0 milliseconds to 6.69 minutes
+Stella By Starlight (GB): 245221.0 milliseconds to 4.09 minutes
+Cedar Waltzin' ~ Don't You Worry 'bout a Thing (GB): 503133.0 milliseconds to 8.39 minutes
+L.A. 58 (GB): 246633.0 milliseconds to 4.11 minutes
+All Things Considered (GB): 652440.0 milliseconds to 10.87 minutes
+Sunday Waltz (GB): 323448.0 milliseconds to 5.39 minutes
+Theme for Ernie (GB): 304293.0 milliseconds to 5.07 minutes
+Somaoh (GB): 228746.0 milliseconds to 3.81 minutes
+The Good Doctor (GB): 393440.0 milliseconds to 6.56 minutes
+Draw Me Nearer (GB): 282386.0 milliseconds to 4.71 minutes
+Darn That Dream (GB): 305565.0 milliseconds to 5.09 minutes
+Jackie In The Rain (GB): 304331.0 milliseconds to 5.07 minutes
+Min Soldat (My Soldier) (GB): 506320.0 milliseconds to 8.44 minutes
+Stella By Starlight (GB): 347773.0 milliseconds to 5.8 minutes
+Pretty Women (GB): 381050.0 milliseconds to 6.35 minutes
+Very Early (GB): 485505.0 milliseconds to 8.09 minutes
+Isn't This My Sound Around Me (GB): 320540.0 milliseconds to 5.34 minutes
+Blues for the Real Human Beings (GB): 259386.0 milliseconds to 4.32 minutes
+Ancient and Distant (GB): 433266.0 milliseconds to 7.22 minutes
+Habbit Rabbit (GB): 314133.0 milliseconds to 5.24 minutes
+There's A Small Hotel (GB): 401493.0 milliseconds to 6.69 minutes
+Doralice (TW): 167764.0 milliseconds to 2.8 minutes
+O Pato (TW): 237250.0 milliseconds to 3.95 minutes
+Girl From Ipanema (TW): 203318.0 milliseconds to 3.39 minutes
+Desafinado (TW): 192220.0 milliseconds to 3.2 minutes
+Corcovado (Quiet Nights Of Quiet Stars) (TW): 296106.0 milliseconds to 4.94 minutes
+Minha Saudade (TW): 161646.0 milliseconds to 2.69 minutes
+Insônia (TW): 164386.0 milliseconds to 2.74 minutes
+O Viajante (TW): 175957.0 milliseconds to 2.93 minutes
+Favela - Remastered (TW): 240266.0 milliseconds to 4.0 minutes
+A Jornada (TW): 208265.0 milliseconds to 3.47 minutes
+O Barquinho (TW): 212478.0 milliseconds to 3.54 minutes
+Capricho de La Habana (TW): 194185.0 milliseconds to 3.24 minutes
+Descer Pelo Rio (TW): 257085.0 milliseconds to 4.28 minutes
+Brigas, Nunca Mais (TW): 167161.0 milliseconds to 2.79 minutes
+Escada Infinita (TW): 200285.0 milliseconds to 3.34 minutes
+I'll Remember April (TW): 220548.0 milliseconds to 3.68 minutes
+It's a Shame (TW): 227466.0 milliseconds to 3.79 minutes
+Light Dance (TW): 219750.0 milliseconds to 3.66 minutes
+Um Dia No Mar (TW): 161901.0 milliseconds to 2.7 minutes
+Cascata (TW): 220181.0 milliseconds to 3.67 minutes
+Tone of Love (CH): 198952.0 milliseconds to 3.32 minutes
+Hand in Hand (CH): 106000.0 milliseconds to 1.77 minutes
+Tampa (CH): 153928.0 milliseconds to 2.57 minutes
+A Letter Home (CH): 139500.0 milliseconds to 2.33 minutes
+Callistea (CH): 151893.0 milliseconds to 2.53 minutes
+Sarabande (CH): 126544.0 milliseconds to 2.11 minutes
+Guinevere (CH): 114500.0 milliseconds to 1.91 minutes
+Princess Elvira (CH): 132363.0 milliseconds to 2.21 minutes
+The Inner World (CH): 202357.0 milliseconds to 3.37 minutes
+Thinking about Jane (CH): 144500.0 milliseconds to 2.41 minutes
+Old Habit (CH): 123750.0 milliseconds to 2.06 minutes
+Reflections (CH): 168916.0 milliseconds to 2.82 minutes
+Fairfield (CH): 128500.0 milliseconds to 2.14 minutes
+Field trip (CH): 143886.0 milliseconds to 2.4 minutes
+Lato (CH): 127000.0 milliseconds to 2.12 minutes
+Daybreak (CH): 130972.0 milliseconds to 2.18 minutes
+Love At First Sight (CH): 107866.0 milliseconds to 1.8 minutes
+Kanskje en vakker dag (CH): 145000.0 milliseconds to 2.42 minutes
+Lelyah (CH): 151874.0 milliseconds to 2.53 minutes
+Breakfast on the Balcony (CH): 149250.0 milliseconds to 2.49 minutes
+Third Bridge (EG): 136500.0 milliseconds to 2.27 minutes
+Reaching for Casterly (EG): 177092.0 milliseconds to 2.95 minutes
+That Something (EG): 179116.0 milliseconds to 2.99 minutes
+Taormina (EG): 204590.0 milliseconds to 3.41 minutes
+Dissolve Decay Love (EG): 247092.0 milliseconds to 4.12 minutes
+Pearl Beach (EG): 216457.0 milliseconds to 3.61 minutes
+Purple Lobby (EG): 94580.0 milliseconds to 1.58 minutes
+The Light (EG): 222068.0 milliseconds to 3.7 minutes
+Elephant & Castle (EG): 186900.0 milliseconds to 3.12 minutes
+Bellevue (EG): 198894.0 milliseconds to 3.31 minutes
+After the Art Show (EG): 124000.0 milliseconds to 2.07 minutes
+Time (EG): 212032.0 milliseconds to 3.53 minutes
+To Judge (EG): 176969.0 milliseconds to 2.95 minutes
+Surf The Orange Water (EG): 186809.0 milliseconds to 3.11 minutes
+Feelin' Fresh (EG): 149264.0 milliseconds to 2.49 minutes
+Saoirse (EG): 179000.0 milliseconds to 2.98 minutes
+drowned (EG): 120000.0 milliseconds to 2.0 minutes
+Chrome (EG): 209217.0 milliseconds to 3.49 minutes
+Woodland Heart (EG): 160105.0 milliseconds to 2.67 minutes
+Dozing Off (EG): 158400.0 milliseconds to 2.64 minutes
+Aphrodite (PT): 234746.0 milliseconds to 3.91 minutes
+You Know (PT): 204866.0 milliseconds to 3.41 minutes
+Make You (PT): 170165.0 milliseconds to 2.84 minutes
+Antananarivo (PT): 186528.0 milliseconds to 3.11 minutes
+No Ending (PT): 233906.0 milliseconds to 3.9 minutes
+Macadamian (PT): 206801.0 milliseconds to 3.45 minutes
+Freedom For a Change (PT): 158600.0 milliseconds to 2.64 minutes
+Better By Your Side (PT): 319917.0 milliseconds to 5.33 minutes
+17 (PT): 250028.0 milliseconds to 4.17 minutes
+I Need a Win (PT): 280280.0 milliseconds to 4.67 minutes
+Marcy Son What (PT): 295636.0 milliseconds to 4.93 minutes
+Lookalike (PT): 227830.0 milliseconds to 3.8 minutes
+Rise (PT): 227306.0 milliseconds to 3.79 minutes
+Closer (PT): 178095.0 milliseconds to 2.97 minutes
+Runway Gurl - Original Mix (PT): 334860.0 milliseconds to 5.58 minutes
+Whatcha Doin' (PT): 355500.0 milliseconds to 5.92 minutes
+Feel Better Now (PT): 225906.0 milliseconds to 3.77 minutes
+You Make My Life a Better Place (PT): 232013.0 milliseconds to 3.87 minutes
+Juicy (PT): 202758.0 milliseconds to 3.38 minutes
+Smooth (PT): 349811.0 milliseconds to 5.83 minutes
+Doralice (GR): 167764.0 milliseconds to 2.8 minutes
+O Pato (GR): 237250.0 milliseconds to 3.95 minutes
+Girl From Ipanema (GR): 203318.0 milliseconds to 3.39 minutes
+Desafinado (GR): 192220.0 milliseconds to 3.2 minutes
+Corcovado (Quiet Nights Of Quiet Stars) (GR): 296106.0 milliseconds to 4.94 minutes
+Minha Saudade (GR): 161646.0 milliseconds to 2.69 minutes
+Insônia (GR): 164386.0 milliseconds to 2.74 minutes
+O Viajante (GR): 175957.0 milliseconds to 2.93 minutes
+Favela - Remastered (GR): 240266.0 milliseconds to 4.0 minutes
+A Jornada (GR): 208265.0 milliseconds to 3.47 minutes
+O Barquinho (GR): 212478.0 milliseconds to 3.54 minutes
+Capricho de La Habana (GR): 194185.0 milliseconds to 3.24 minutes
+Descer Pelo Rio (GR): 257085.0 milliseconds to 4.28 minutes
+Brigas, Nunca Mais (GR): 167161.0 milliseconds to 2.79 minutes
+Escada Infinita (GR): 200285.0 milliseconds to 3.34 minutes
+I'll Remember April (GR): 220548.0 milliseconds to 3.68 minutes
+It's a Shame (GR): 227466.0 milliseconds to 3.79 minutes
+Light Dance (GR): 219750.0 milliseconds to 3.66 minutes
+Um Dia No Mar (GR): 161901.0 milliseconds to 2.7 minutes
+Cascata (GR): 220181.0 milliseconds to 3.67 minutes
+Say So (feat. JoJo) (IN): 212973.0 milliseconds to 3.55 minutes
+Sent From Heaven (IN): 239600.0 milliseconds to 3.99 minutes
+Inside My Love - Remastered (IN): 238693.0 milliseconds to 3.98 minutes
+Heaven Sent (IN): 303773.0 milliseconds to 5.06 minutes
+Ribbon In The Sky (IN): 337066.0 milliseconds to 5.62 minutes
+Cure (IN): 246146.0 milliseconds to 4.1 minutes
+What You Won't Do for Love (IN): 286493.0 milliseconds to 4.77 minutes
+So In Love - feat. Anthony Hamilton (IN): 275400.0 milliseconds to 4.59 minutes
+Another Life (IN): 358626.0 milliseconds to 5.98 minutes
+I Can't Help It (IN): 282053.0 milliseconds to 4.7 minutes
+Nothing Can Come Between Us - Remastered (IN): 232666.0 milliseconds to 3.88 minutes
+Sweet Love (IN): 266200.0 milliseconds to 4.44 minutes
+Show Me the Way (IN): 467733.0 milliseconds to 7.8 minutes
+THIS COULD BE US (IN): 258577.0 milliseconds to 4.31 minutes
+The Greatest (IN): 195424.0 milliseconds to 3.26 minutes
+Still (IN): 290240.0 milliseconds to 4.84 minutes
+I'd Give My Life For You - Alternate Mix (IN): 209000.0 milliseconds to 3.48 minutes
+Ngiculela-Es Una Historia-I Am Singing (IN): 228533.0 milliseconds to 3.81 minutes
+Beautiful Surprise (IN): 148413.0 milliseconds to 2.47 minutes
+Orange Moon (IN): 430000.0 milliseconds to 7.17 minutes
+Aphrodite (IT): 234746.0 milliseconds to 3.91 minutes
+You Know (IT): 204866.0 milliseconds to 3.41 minutes
+Make You (IT): 170165.0 milliseconds to 2.84 minutes
+Antananarivo (IT): 186528.0 milliseconds to 3.11 minutes
+No Ending (IT): 233906.0 milliseconds to 3.9 minutes
+Macadamian (IT): 206801.0 milliseconds to 3.45 minutes
+Freedom For a Change (IT): 158600.0 milliseconds to 2.64 minutes
+Better By Your Side (IT): 319917.0 milliseconds to 5.33 minutes
+17 (IT): 250028.0 milliseconds to 4.17 minutes
+I Need a Win (IT): 280280.0 milliseconds to 4.67 minutes
+Marcy Son What (IT): 295636.0 milliseconds to 4.93 minutes
+Lookalike (IT): 227830.0 milliseconds to 3.8 minutes
+Rise (IT): 227306.0 milliseconds to 3.79 minutes
+Closer (IT): 178095.0 milliseconds to 2.97 minutes
+Runway Gurl - Original Mix (IT): 334860.0 milliseconds to 5.58 minutes
+Whatcha Doin' (IT): 355500.0 milliseconds to 5.92 minutes
+Feel Better Now (IT): 225906.0 milliseconds to 3.77 minutes
+You Make My Life a Better Place (IT): 232013.0 milliseconds to 3.87 minutes
+Juicy (IT): 202758.0 milliseconds to 3.38 minutes
+Smooth (IT): 349811.0 milliseconds to 5.83 minutes
+Aphrodite (DO): 234746.0 milliseconds to 3.91 minutes
+You Know (DO): 204866.0 milliseconds to 3.41 minutes
+Make You (DO): 170165.0 milliseconds to 2.84 minutes
+Antananarivo (DO): 186528.0 milliseconds to 3.11 minutes
+No Ending (DO): 233906.0 milliseconds to 3.9 minutes
+Macadamian (DO): 206801.0 milliseconds to 3.45 minutes
+Freedom For a Change (DO): 158600.0 milliseconds to 2.64 minutes
+Better By Your Side (DO): 319917.0 milliseconds to 5.33 minutes
+17 (DO): 250028.0 milliseconds to 4.17 minutes
+I Need a Win (DO): 278569.0 milliseconds to 4.64 minutes
+Marcy Son What (DO): 295636.0 milliseconds to 4.93 minutes
+Lookalike (DO): 227830.0 milliseconds to 3.8 minutes
+Rise (DO): 227306.0 milliseconds to 3.79 minutes
+Closer (DO): 178095.0 milliseconds to 2.97 minutes
+Runway Gurl - Original Mix (DO): 334860.0 milliseconds to 5.58 minutes
+Whatcha Doin' (DO): 355500.0 milliseconds to 5.92 minutes
+Feel Better Now (DO): 225906.0 milliseconds to 3.77 minutes
+You Make My Life A Better Place (DO): 230295.0 milliseconds to 3.84 minutes
+Juicy (DO): 202758.0 milliseconds to 3.38 minutes
+Smooth (DO): 349811.0 milliseconds to 5.83 minutes
+Love Is Here To Stay (JP): 262000.0 milliseconds to 4.37 minutes
+I’m Old Fashioned (JP): 272000.0 milliseconds to 4.53 minutes
+Somewhere Sometime (JP): 199102.0 milliseconds to 3.32 minutes
+Old Country (JP): 352250.0 milliseconds to 5.87 minutes
+Mercy, Mercy, Mercy (JP): 151904.0 milliseconds to 2.53 minutes
+Drive-Through Dinner (JP): 204889.0 milliseconds to 3.41 minutes
+As We Believed (JP): 247283.0 milliseconds to 4.12 minutes
+As Life Turns Around (JP): 188409.0 milliseconds to 3.14 minutes
+I Didn't Know What Time It Was (JP): 287381.0 milliseconds to 4.79 minutes
+I Could Write A Book (JP): 189730.0 milliseconds to 3.16 minutes
+Sunny (JP): 234068.0 milliseconds to 3.9 minutes
+The Shape of Blue (JP): 197665.0 milliseconds to 3.29 minutes
+The Way You Look Tonight (JP): 215719.0 milliseconds to 3.6 minutes
+Star Eyes (JP): 318000.0 milliseconds to 5.3 minutes
+Let's Fall In Love (JP): 206593.0 milliseconds to 3.44 minutes
+Melody of Summer (JP): 156992.0 milliseconds to 2.62 minutes
+All Or Nothing At All (JP): 411750.0 milliseconds to 6.86 minutes
+Black Orpheus (JP): 213893.0 milliseconds to 3.56 minutes
+Cheek To Cheek (JP): 163702.0 milliseconds to 2.73 minutes
+Softly, as in a Morning Sunrise (JP): 201843.0 milliseconds to 3.36 minutes
+Third Bridge (MA): 136500.0 milliseconds to 2.27 minutes
+Reaching for Casterly (MA): 177092.0 milliseconds to 2.95 minutes
+That Something (MA): 179116.0 milliseconds to 2.99 minutes
+Taormina (MA): 204590.0 milliseconds to 3.41 minutes
+Dissolve Decay Love (MA): 247092.0 milliseconds to 4.12 minutes
+Pearl Beach (MA): 216457.0 milliseconds to 3.61 minutes
+Purple Lobby (MA): 94580.0 milliseconds to 1.58 minutes
+The Light (MA): 222068.0 milliseconds to 3.7 minutes
+Elephant & Castle (MA): 186900.0 milliseconds to 3.12 minutes
+Bellevue (MA): 198894.0 milliseconds to 3.31 minutes
+After the Art Show (MA): 124000.0 milliseconds to 2.07 minutes
+Time (MA): 212032.0 milliseconds to 3.53 minutes
+To Judge (MA): 176969.0 milliseconds to 2.95 minutes
+Surf The Orange Water (MA): 186809.0 milliseconds to 3.11 minutes
+Feelin' Fresh (MA): 149264.0 milliseconds to 2.49 minutes
+Saoirse (MA): 179000.0 milliseconds to 2.98 minutes
+drowned (MA): 120000.0 milliseconds to 2.0 minutes
+Chrome (MA): 209217.0 milliseconds to 3.49 minutes
+Woodland Heart (MA): 160105.0 milliseconds to 2.67 minutes
+Dozing Off (MA): 158400.0 milliseconds to 2.64 minutes
+Me Llaman Nella (CO): 198298.0 milliseconds to 3.3 minutes
+Parar el Tiempo (CO): 249250.0 milliseconds to 4.15 minutes
+Bienvenido a mi habitación (CO): 192007.0 milliseconds to 3.2 minutes
+Arráncame (CO): 216080.0 milliseconds to 3.6 minutes
+Margarita (CO): 236346.0 milliseconds to 3.94 minutes
+Mozo (CO): 227793.0 milliseconds to 3.8 minutes
+El rincón (Chachachá) (CO): 231978.0 milliseconds to 3.87 minutes
+Bailar Contigo (CO): 220720.0 milliseconds to 3.68 minutes
+Si Te Contara (CO): 159790.0 milliseconds to 2.66 minutes
+Ayúdame Inspiración (CO): 247504.0 milliseconds to 4.13 minutes
+¿Dónde Estabas Tú? (CO): 223133.0 milliseconds to 3.72 minutes
+Electric Soul (CO): 238760.0 milliseconds to 3.98 minutes
+Come Fly With Me (CO): 180413.0 milliseconds to 3.01 minutes
+Tranquilito (CO): 346800.0 milliseconds to 5.78 minutes
+Carmesí (CO): 181466.0 milliseconds to 3.02 minutes
+Tiene Sabor (feat. Omara Portuondo) (CO): 197888.0 milliseconds to 3.3 minutes
+El hombre que quiso ser canción (CO): 251830.0 milliseconds to 4.2 minutes
+Águas De Março (CO): 214366.0 milliseconds to 3.57 minutes
+Sabor a Mi (CO): 197480.0 milliseconds to 3.29 minutes
+El Extranjero (CO): 342595.0 milliseconds to 5.71 minutes
+Me Llaman Nella (GT): 198298.0 milliseconds to 3.3 minutes
+Parar el Tiempo (GT): 249250.0 milliseconds to 4.15 minutes
+Bienvenido a mi habitación (GT): 192007.0 milliseconds to 3.2 minutes
+Arráncame (GT): 216080.0 milliseconds to 3.6 minutes
+Margarita (GT): 236346.0 milliseconds to 3.94 minutes
+Mozo (GT): 227793.0 milliseconds to 3.8 minutes
+El rincón (Chachachá) (GT): 231978.0 milliseconds to 3.87 minutes
+Bailar Contigo (GT): 220720.0 milliseconds to 3.68 minutes
+Si Te Contara (GT): 159790.0 milliseconds to 2.66 minutes
+Ayúdame Inspiración (GT): 247504.0 milliseconds to 4.13 minutes
+¿Dónde Estabas Tú? (GT): 223133.0 milliseconds to 3.72 minutes
+Electric Soul (GT): 238760.0 milliseconds to 3.98 minutes
+Come Fly With Me (GT): 180413.0 milliseconds to 3.01 minutes
+Tranquilito (GT): 346800.0 milliseconds to 5.78 minutes
+Carmesí (GT): 181466.0 milliseconds to 3.02 minutes
+Tiene Sabor (feat. Omara Portuondo) (GT): 197888.0 milliseconds to 3.3 minutes
+El hombre que quiso ser canción (GT): 251830.0 milliseconds to 4.2 minutes
+Águas De Março (GT): 214366.0 milliseconds to 3.57 minutes
+Sabor a Mi (GT): 197480.0 milliseconds to 3.29 minutes
+El Extranjero (GT): 342595.0 milliseconds to 5.71 minutes
+Doralice (TH): 167764.0 milliseconds to 2.8 minutes
+O Pato (TH): 237250.0 milliseconds to 3.95 minutes
+Girl From Ipanema (TH): 203318.0 milliseconds to 3.39 minutes
+Desafinado (TH): 192220.0 milliseconds to 3.2 minutes
+Corcovado (Quiet Nights Of Quiet Stars) (TH): 296106.0 milliseconds to 4.94 minutes
+Minha Saudade (TH): 161646.0 milliseconds to 2.69 minutes
+Insônia (TH): 164386.0 milliseconds to 2.74 minutes
+O Viajante (TH): 175957.0 milliseconds to 2.93 minutes
+Favela - Remastered (TH): 240266.0 milliseconds to 4.0 minutes
+A Jornada (TH): 208265.0 milliseconds to 3.47 minutes
+O Barquinho (TH): 212478.0 milliseconds to 3.54 minutes
+Capricho de La Habana (TH): 194185.0 milliseconds to 3.24 minutes
+Descer Pelo Rio (TH): 257085.0 milliseconds to 4.28 minutes
+Brigas, Nunca Mais (TH): 167161.0 milliseconds to 2.79 minutes
+Escada Infinita (TH): 200285.0 milliseconds to 3.34 minutes
+I'll Remember April (TH): 220548.0 milliseconds to 3.68 minutes
+It's a Shame (TH): 227466.0 milliseconds to 3.79 minutes
+Light Dance (TH): 219750.0 milliseconds to 3.66 minutes
+Um Dia No Mar (TH): 161901.0 milliseconds to 2.7 minutes
+Cascata (TH): 220181.0 milliseconds to 3.67 minutes
+Mala Femmina (TN): 152360.0 milliseconds to 2.54 minutes
+Come Back To Sorrento (TN): 195866.0 milliseconds to 3.26 minutes
+Summertime in Venice (TN): 134480.0 milliseconds to 2.24 minutes
+Take My Heart - Remastered (TN): 189056.0 milliseconds to 3.15 minutes
+Tu vuo' fa l'americano (TN): 205682.0 milliseconds to 3.43 minutes
+Hold My Hand (TN): 165880.0 milliseconds to 2.76 minutes
+Colpevole (con Orchestra) (TN): 186053.0 milliseconds to 3.1 minutes
+Nel blu dipinto di blu - Volare (TN): 191660.0 milliseconds to 3.19 minutes
+Primo amore (TN): 225213.0 milliseconds to 3.75 minutes
+Save The Last Dance For Me (TN): 173801.0 milliseconds to 2.9 minutes
+Kriminal tango (TN): 164866.0 milliseconds to 2.75 minutes
+Rags to Riches - Remastered (TN): 168480.0 milliseconds to 2.81 minutes
+Let's Fall in Love (TN): 118400.0 milliseconds to 1.97 minutes
+The Way You Look Tonight (TN): 202160.0 milliseconds to 3.37 minutes
+Sott'er celo de Roma (TN): 193906.0 milliseconds to 3.23 minutes
+Passione (TN): 209493.0 milliseconds to 3.49 minutes
+Ma l'amore no (TN): 237360.0 milliseconds to 3.96 minutes
+Polvere (TN): 219080.0 milliseconds to 3.65 minutes
+That's Amore - Remastered (TN): 188466.0 milliseconds to 3.14 minutes
+Malafemmena (TN): 201840.0 milliseconds to 3.36 minutes
+Aphrodite (TR): 234746.0 milliseconds to 3.91 minutes
+You Know (TR): 204866.0 milliseconds to 3.41 minutes
+Make You (TR): 170165.0 milliseconds to 2.84 minutes
+Antananarivo (TR): 186528.0 milliseconds to 3.11 minutes
+No Ending (TR): 233906.0 milliseconds to 3.9 minutes
+Macadamian (TR): 206801.0 milliseconds to 3.45 minutes
+Freedom For a Change (TR): 158600.0 milliseconds to 2.64 minutes
+Better By Your Side (TR): 319917.0 milliseconds to 5.33 minutes
+17 (TR): 250028.0 milliseconds to 4.17 minutes
+I Need a Win (TR): 280280.0 milliseconds to 4.67 minutes
+Marcy Son What (TR): 295636.0 milliseconds to 4.93 minutes
+Lookalike (TR): 227830.0 milliseconds to 3.8 minutes
+Rise (TR): 227306.0 milliseconds to 3.79 minutes
+Closer (TR): 178095.0 milliseconds to 2.97 minutes
+Runway Gurl - Original Mix (TR): 334860.0 milliseconds to 5.58 minutes
+Whatcha Doin' (TR): 355500.0 milliseconds to 5.92 minutes
+Feel Better Now (TR): 225906.0 milliseconds to 3.77 minutes
+You Make My Life a Better Place (TR): 232013.0 milliseconds to 3.87 minutes
+Juicy (TR): 202758.0 milliseconds to 3.38 minutes
+Smooth (TR): 349811.0 milliseconds to 5.83 minutes
+I Guess I Just Feel Like (VN): 285480.0 milliseconds to 4.76 minutes
+Feels Like Home (VN): 267077.0 milliseconds to 4.45 minutes
+Dreamers Of The Shore (VN): 171908.0 milliseconds to 2.87 minutes
+Come Home To Me (VN): 225868.0 milliseconds to 3.76 minutes
+Peer Pressure (VN): 176826.0 milliseconds to 2.95 minutes
+Carry Me Away (VN): 156986.0 milliseconds to 2.62 minutes
+Best Part of Me (feat. YEBBA) (VN): 243266.0 milliseconds to 4.05 minutes
+Falling Like The Stars (VN): 212720.0 milliseconds to 3.55 minutes
+Me Without You - Acoustic (VN): 191303.0 milliseconds to 3.19 minutes
+Bad (VN): 225920.0 milliseconds to 3.77 minutes
+Sweet Baby (VN): 184159.0 milliseconds to 3.07 minutes
+I Don't Care - Acoustic (VN): 238220.0 milliseconds to 3.97 minutes
+Honey (VN): 211125.0 milliseconds to 3.52 minutes
+Spiral Thinking (VN): 213069.0 milliseconds to 3.55 minutes
+The Middle (VN): 227781.0 milliseconds to 3.8 minutes
+Barefoot (VN): 198224.0 milliseconds to 3.3 minutes
+What A Day (VN): 189160.0 milliseconds to 3.15 minutes
+A Safe Place to Land (feat. John Legend) (VN): 269209.0 milliseconds to 4.49 minutes
+Mine Mine Mine (VN): 170984.0 milliseconds to 2.85 minutes
+Incredible (VN): 246320.0 milliseconds to 4.11 minutes
