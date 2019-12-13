@@ -174,8 +174,8 @@ def create_json(ids):
         json.dump(jason_prep, f, ensure_ascii=False, indent=4)
 
 def create_healthtable(cur, conn):
-    cur.execute('DROP TABLE IF EXISTS Health')
-    cur.execute('CREATE TABLE Health(id INTEGER PRIMARY KEY UNIQUE, servings REAL, calories REAL, weight REAL, label TEXT)')
+    #cur.execute('DROP TABLE IF EXISTS Health')
+    cur.execute('CREATE TABLE IF NOT EXISTS Health(id INTEGER PRIMARY KEY UNIQUE, servings REAL, calories REAL, weight REAL, label TEXT)')
     conn.commit()
 
 def update_health(CACHE_FNAME, cur, conn):
@@ -207,8 +207,7 @@ def create_diettable(CACHE_FNAME, cur, conn):
             if diet not in label_list:
                 label_list.append(diet)
 
-    cur.execute("DROP TABLE IF EXISTS Diets")
-    cur.execute("CREATE TABLE Diets (id INTEGER PRIMARY KEY, title TEXT)")
+    cur.execute("CREATE TABLE IF NOT EXISTS Diets (id INTEGER PRIMARY KEY, title TEXT)")
     for i in range(len(label_list)):
         cur.execute("INSERT INTO Diets (id,title) VALUES (?,?)",(i,label_list[i]))
     conn.commit()
