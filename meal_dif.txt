@@ -1,0 +1,127 @@
+Meal Difficulty
+52765 - Chicken Enchilada Casserole : 4.0
+52768 - Apple Frangipan Tart : 4.75
+52770 - Spaghetti Bolognese : 5.0
+52771 - Spicy Arrabiata Penne : 3.0
+52772 - Teriyaki Chicken Casserole : 5.25
+52774 - Pad See Ew : 4.5
+52775 - Vegan Lasagna : 6.0
+52781 - Irish stew : 4.75
+52784 - Smoky Lentil Chili with Squash : 8.75
+52785 - Dal fry : 6.0
+52792 - Bread and Butter Pudding : 5.75
+52793 - Sticky Toffee Pudding Ultimate : 7.25
+52794 - Vegan Chocolate Cake : 4.5
+52796 - Chicken Alfredo Primavera : 6.75
+52797 - Spicy North African Potato Salad : 4.25
+52804 - Poutine : 2.0
+52812 - Beef Brisket Pot Roast : 7.75
+52813 - Kentucky Fried Chicken : 5.25
+52815 - French Lentils With Garlic and Thyme : 4.25
+52816 - Roasted Eggplant With Tahini, Pine Nuts, and Lentils : 7.25
+52818 - Chicken Fajita Mac and Cheese : 4.5
+52820 - Katsu Chicken curry : 6.0
+52822 - Toad In The Hole : 3.75
+52823 - Salmon Prawn Risotto : 4.25
+52824 - Beef Sunday Roast : 3.5
+52826 - Braised Beef Chilli : 9.25
+52827 - Massaman Beef curry : 8.25
+52829 - Grilled Mac and Cheese Sandwich : 8.25
+52831 - Chicken Karaage : 5.75
+52832 - Coq au vin : 8.0
+52834 - Beef stroganoff : 4.75
+52835 - Fettucine alfredo : 2.75
+52839 - Chilli prawn linguine : 4.25
+52840 - Clam chowder : 4.25
+52842 - Broccoli & Stilton soup : 3.75
+52844 - Lasagne : 7.25
+52846 - Chicken & mushroom Hotpot : 5.25
+52847 - Pork Cassoulet : 9.0
+52849 - Spinach & Ricotta Cannelloni : 7.25
+52850 - Chicken Couscous : 3.5
+52851 - Nutty Chicken Curry : 3.25
+52852 - Tuna Nicoise : 4.25
+52853 - Chocolate Avocado Mousse : 3.5
+52855 - Banana Pancakes : 2.75
+52856 - Choc Chip Pecan Pie : 8.0
+52859 - Key Lime Pie : 7.0
+52860 - Chocolate Raspberry Brownies : 4.0
+52861 - Peanut Butter Cheesecake : 4.0
+52862 - Peach & Blueberry Grunt : 4.25
+52865 - Matar Paneer : 4.0
+52868 - Kidney Bean Curry : 3.75
+52869 - Tahini Lentils : 3.5
+52870 - Chickpea Fajitas : 4.75
+52872 - Spanish Tortilla : 5.5
+52873 - Beef Dumpling Stew : 6.25
+52874 - Beef and Mustard Pie : 5.75
+52875 - Chicken Ham and Leek Pie : 7.25
+52877 - Lamb and Potato pie : 4.75
+52878 - Beef and Oyster pie : 8.75
+52879 - Chicken Parmentier : 7.25
+52881 - Steak and Kidney Pie : 5.5
+52883 - Sticky Toffee Pudding : 6.0
+52885 -  Bubble & Squeak : 2.5
+52886 - Spotted Dick : 7.25
+52887 - Kedgeree : 5.25
+52890 - Jam Roly-Poly : 5.25
+52895 - English Breakfast : 4.75
+52896 - Full English Breakfast : 5.0
+52898 - Chelsea Buns : 6.25
+52899 - Dundee cake : 8.5
+52900 - Madeira Cake : 4.75
+52901 - Rock Cakes : 3.5
+52902 - Parkin Cake : 6.75
+52905 - Chocolate Souffle : 4.0
+52907 - Duck Confit : 6.5
+52908 - Ratatouille : 4.0
+52910 - Chinon Apple Tarts : 5.25
+52911 - Summer Pistou : 3.5
+52913 - Brie wrapped in prosciutto & brioche : 7.25
+52914 - Boulangère Potatoes : 4.75
+52916 - Pear Tarte Tatin : 5.0
+52918 - Fish Stew with Rouille : 7.0
+52919 - Fennel Dauphinoise : 4.75
+52923 - Canadian Butter Tarts : 3.5
+52924 - Nanaimo Bars : 8.25
+52925 - Split Pea Soup : 3.0
+52927 - Montreal Smoked Meat : 9.0
+52928 - BeaverTails : 8.0
+52929 - Timbits : 3.75
+52935 - Steak Diane : 5.5
+52936 - Saltfish and Ackee : 5.5
+52938 - Jamaican Beef Patties : 9.0
+52940 - Brown Stew Chicken : 5.25
+52941 - Red Peas Soup : 8.75
+52943 - Oxtail with broad beans : 5.25
+52944 - Escovitch Fish : 5.25
+52945 - Kung Pao Chicken : 5.25
+52946 - Kung Po Prawns : 4.0
+52947 - Ma Po Tofu : 5.25
+52948 - Wontons : 4.25
+52949 - Sweet and Sour Pork : 4.0
+52950 - Szechuan Beef : 6.5
+52951 - General Tso's Chicken : 6.0
+52952 - Beef Lo Mein : 5.75
+52953 - Shrimp Chow Fun : 5.25
+52954 - Hot and Sour Soup : 5.25
+52958 - Peanut Butter Cookies : 1.75
+52960 - Salmon Avocado Salad : 3.0
+52961 - Budino Di Ricotta : 4.5
+52962 - Salmon Eggs Eggs Benedict : 3.25
+52963 - Shakshuka : 3.75
+52964 - Smoked Haddock Kedgeree : 5.0
+52965 - Breakfast Potatoes : 3.25
+52966 - Chocolate Caramel Crispy : 2.5
+52967 - Home-made Mandazi : 2.0
+52969 - Chakchouka  : 4.75
+52972 - Tunisian Lamb Soup : 5.75
+52973 - Leblebi Soup : 6.0
+52974 - Keleya Zaara : 4.0
+52975 - Tuna and Egg Briks : 4.25
+52976 - Cashew Ghoriba Biscuits : 3.0
+52978 - Kumpir : 3.0
+52979 - Bitterballen (Dutch meatballs) : 4.5
+52981 - Snert (Dutch Split Pea Soup) : 6.75
+52982 - Spaghetti alla Carbonara : 2.5
+52983 - test : 1.75
