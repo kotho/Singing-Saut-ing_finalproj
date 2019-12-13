@@ -59,7 +59,7 @@ def get_random_with_caching():
             else:
                 return 1
     except:
-        Print(exception)
+        print('exception')
 
 def setup_db(db_name):
     path = os.path.dirname(os.path.abspath(__file__))
@@ -69,17 +69,17 @@ def setup_db(db_name):
 
 def find_time(meal):
     total = 0
-    pattern = '(\d+)\smin'
+    pattern = r'(\d+)\smin'
     matches = re.findall(pattern, meal['strInstructions'])
     for item in matches:
         total = total + int(item)
 
-    pattern = '(\d+)\shour'
+    pattern = r'(\d+)\shour'
     matches = re.findall(pattern, meal['strInstructions'])
     for item in matches:
         total = total + int(item)*60
 
-    pattern = '(\d+)\shr'
+    pattern = r'(\d+)\shr'
     matches = re.findall(pattern, meal['strInstructions'])
     for item in matches:
         total = total + int(item)*60
