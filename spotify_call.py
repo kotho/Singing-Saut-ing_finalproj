@@ -225,7 +225,8 @@ def setUpSpotifyTable3(country, cur, conn):
 def main():
 
     api_key = authorize()
-    country = 'VN'
+    country = raw_input("Please enter an ISO country code (i.e 'US', 'GB', ...): ")
+    print(country)
     gpc = get_playlists_by_country(api_key, country)
     gpt = get_playlist_tracks(api_key, gpc[0], country)
     #for i in range(15):
